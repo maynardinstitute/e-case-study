@@ -1,3 +1,5 @@
+Glossary
+
 Angel investor – An individual or institution who provides funding during the initial stage of a new venture.  Term  is taken from the financing of Broadway stage plays, where early investors were considered “angels” in providing the upfront capital  to a support Broadway play — and possibly risked losing their entire investment if the play failed to find an audience.
 
 Bootstrap financing – Building a business with little or minimal outside capital.
