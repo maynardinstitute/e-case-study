@@ -1,1 +1,3 @@
 This is an entrepreneurial case study developed by Dickson Louie. 
+
+Dickson Louie, a longtime instructor for management programs at The Maynard Institute, is principal of Louie & Associates, a San Francisco Bay Area consulting firm, and president and co-founder of Time Capsule Press, a book imprint that specializes in using archival content in partnership with newspapers and photo agencies. He is also a visiting assistant professor at the Graduate School of Management at the University of California, Davis, where he developed and teaches the "Business of the Media" MBA elective course. He previously was director of strategic planning and advertising business manager for the San Francisco Chronicle and circulation planning manager for the Los Angeles Times.
